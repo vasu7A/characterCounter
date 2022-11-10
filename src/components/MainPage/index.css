@@ -1,0 +1,37 @@
+.card {
+  min-height: 70vh;
+  max-width: 70vw;
+  background-color: #475569;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.first {
+  background-color: #ffbf1f;
+  min-width: 35vw;
+  min-height: 70vh;
+  padding: 10px;
+}
+.second {
+  background-color: #0f172a;
+  min-width: 35vw;
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 10px;
+}
+.person {
+  height: 300px;
+  width: 400px;
+}
+.heading {
+  color: #ffbf1f;
+}
+.btn {
+  background-color: #ffbf1f;
+}
+li {
+  list-style-type: none;
+}
